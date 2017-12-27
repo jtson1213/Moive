@@ -1,4 +1,4 @@
-# Moive Recommender Analysis
+# Analysis of Moive Recommender System
 Course Project for CSC478 (Programming Machine Learning Application)
 
 **Team Members:** Yuchen Wu | Tzu Hao Peng
